@@ -4,7 +4,7 @@ try:
         if a % 2 == 0:
             print(f"{a} is Even")
         else:
-            print(f"{a} is Odd")
+            print(f"{a} is Odd"
 
 except ValueError:
     print("Please enter a valid integer.")
@@ -17,4 +17,5 @@ except ValueError:
 # Output: 4 is Even
 
 # Input: 7
+
 # Output: 7 is Odd
